@@ -9,4 +9,4 @@
 
 ## Итог исследования
 Выполнен парсинг и полная предобработка данных, построен дашборд в Yandex Datalens, на котором можно посмотреть анализ вакансий в разрезе ключевых характеристик. 
-Ссылка на дашборд https://datalens.yandex.ru/ui538detirbck-rynok-vakansiy-analitikov-v-evrope 
+Ссылка на дашборд: https://goo.su/MfIvSjU
